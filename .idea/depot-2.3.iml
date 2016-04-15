@@ -121,11 +121,18 @@
       <excludeFolder url="file://$MODULE_DIR$/public/system" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-1.8.7-head" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.3, RVM: ruby-1.9.3-p551 [test-mysql]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v11.1.2, RVM: ruby-1.9.3-p551 [test-mysql]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.12.2, RVM: ruby-1.9.3-p551 [test-mysql]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v2.3.8, RVM: ruby-1.8.7-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionpack (v2.3.8, RVM: ruby-1.8.7-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord (v2.3.8, RVM: ruby-1.8.7-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activeresource (v2.3.8, RVM: ruby-1.8.7-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v2.3.8, RVM: ruby-1.8.7-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mysql (v2.9.1, RVM: ruby-1.8.7-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v1.1.6, RVM: ruby-1.8.7-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails (v2.3.8, RVM: ruby-1.8.7-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v10.4.2, RVM: ruby-1.8.7-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.9.5, RVM: ruby-1.8.7-head) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
